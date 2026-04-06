@@ -1,4 +1,4 @@
-## Welecome
+## Welecome!
 
 영남대학교 컴퓨터학부 컴퓨터공학과
 
